@@ -1,0 +1,7 @@
+version: 0.2
+
+run-as: Linux-user-name
+
+env:
+  secrets-manager:
+    key: t:d
