@@ -4,4 +4,4 @@ run-as: Linux-user-name
 
 env:
   secrets-manager:
-    key: x:y
+    key: z:z2
